@@ -55,7 +55,7 @@ Procedimentos de Instalação
     Clonagem do Ambiente
     Bash
 
-    git clone https://github.com/seu-usuario/campofacil.git
+    git clone https://github.com/jorgehenriqueEG/campofacil.git
 
     Configuração de Banco de Dados
     Importe o arquivo bancodedados.sql em seu servidor MySQL. Configure as credenciais de acesso no arquivo conexao.php.
@@ -72,7 +72,13 @@ Cronograma de Evolução (Roadmap)
     Relatórios Avançados: Geração de documentos PDF para análise de performance mensal.
 
 Licença e Autoria
+Autoria
 
-Projeto desenvolvido por [Seu Nome].
+Projeto desenvolvido por Jorge Henrique (jorgehenriqueEG).
+Licença
 
-Este software está sob a licença [Nome da Licença, ex: MIT]. Consulte o arquivo de licença para mais informações.
+Este projeto está licenciado sob a MIT License.
+
+Copyright (c) 2026 jorgehenriqueEG
+
+A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados, para lidar com o software sem restrições, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software. Para mais detalhes, consulte o arquivo LICENSE na raiz deste repositório.
