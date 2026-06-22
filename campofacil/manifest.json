@@ -1,0 +1,8 @@
+{
+  "name": "CampoFacil",
+  "short_name": "CampoFacil",
+  "start_url": "login.php",
+  "display": "standalone",
+  "background_color": "#1b5e20",
+  "theme_color": "#1b5e20"
+}
